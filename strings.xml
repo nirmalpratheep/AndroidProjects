@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="name">Name</string>
+    <string name="quiztype">General Knowledge Quiz</string>
+    <string name="q1">Question 1: Entomology is the science that studies</string>
+    <string name="q2">Question 2: Valid ViewGroup in Android</string>
+    <string name="q3">Question 3: Compute 3+5+x-11 = 0, Find x?</string>
+    <string name="q4">Question 4: Select Apple in the below picture?</string>
+    <string name="q1_ans1">a. Behavior of human beings</string>
+    <string name="q1_ans2">b. Insects</string>
+    <string name="q1_ans3">c. The origin and history of technical and scientific terms</string>
+    <string name="q1_ans4">d. The formation of rocks</string>
+    <string name="q2_ans1">a. RadioButton</string>
+    <string name="q2_ans2">b. TextView</string>
+    <string name="q2_ans3">c. StyleOut</string>
+    <string name="q2_ans4">d. ImageView</string>
+    <string name="result"></string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="q3_ans"></string>
+</resources>
